@@ -1,0 +1,6 @@
+print("my name is" , "Hasaan ALi")
+print("i have a pet" , "dog")
+print("my favoutite food is" , "pizzza")
+print("i want to visit" , "italy" , "one day")
+print("my" ,  "dog" , "also loves", "bone")
+print("i have ", 2 , "brother and" , 1 , "sister")

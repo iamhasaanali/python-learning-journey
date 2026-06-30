@@ -1,0 +1,12 @@
+name = input("What is you name? ")
+print(name.upper())
+print(name.lower())
+print(len(name.split()))
+print(name.split())
+print(name.count("a"))
+
+person = input("What is your full name? ")
+print(person.strip())
+print(person.split()[0])
+print(person.split()[1])
+print(len(person))

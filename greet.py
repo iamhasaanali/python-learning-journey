@@ -1,0 +1,6 @@
+name = input("what is your name?")
+hobby =input("what is your hobby? ")
+colour= input("what is your favourite colour? ")
+print("wow" , name , "that is a great name")
+print("i love " , hobby , "thats a great hobby")
+print(colour , "thats my favourite colour too")
