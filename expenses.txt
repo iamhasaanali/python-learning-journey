@@ -1,0 +1,3 @@
+phone - $2000
+laptop - $4000
+rent - $600
