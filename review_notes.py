@@ -1,7 +1,7 @@
 #Mega Review Challenge 11 of 12
 
 Notes = input("My Notes: ")
-with open("/Users/hasaanali/Documents/review_notes.txt", "a") as file:
+with open("/Users/hasaanali/Documents/My_Learning/review_notes.txt", "a") as file:
     file.write(Notes + "\n")
 
 
